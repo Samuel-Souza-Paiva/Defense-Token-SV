@@ -1,0 +1,9 @@
+.env
+*.exe
+
+# Sonar files #
+/owasp-dependency-check
+sonar-project.properties
+
+# ci/cd
+Dockerfile-ci
