@@ -1,5 +1,4 @@
-## Token Service (sem banco de dados)
-
+## Token Service
 ### Variaveis de ambiente
 
 - `DEFENSE_HOST`
